@@ -10,7 +10,7 @@ Hello, I created with React and RestAPI Convertor-currency-React.
 
 ## ## RULES OF USE
 
-> **STEP-1:** `https://github.com/cavidsuleyman/The-Rick-and-Morty-characters-Table.git` <br/>
+> **STEP-1:** `https://github.com/cavidsuleyman/Convertor-currency-React.git` <br/>
 > **STEP-2:**  enter the `Convertor-currency-React` folder that appears <br/>
 > **STEP-3:**  Open the folder you are in in a text editor <br/>
 > **STEP-4:**  Run all the files in the main folder "npm start" <br/>
